@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Agostinho Soto-wang / UCSD 2029"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Agostinho Soto-wang"
+description              : &description "Academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Agostinho Soto-wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I am a bioengineering student at UC San Diego with a focus in bioinformatics, intent on applying ML and deep learning models for driving both research and translational decisions. My experience and passion lies in understanding the tumor microenvironment. In the Mechantransduction in Immune Network lab at UC San Diego and Moores Cancer Center, I have contributed to both microscopy quantification and time series analysis."
+  location         : "San Diego, CA, USA"
+  employer         : "UC San Diego"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "asotowang@ucsd.edu" 
 
   # Academic websites
   academia         : # URL
